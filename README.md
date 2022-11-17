@@ -1,5 +1,5 @@
 # unicorn-companies
-Markdown of EDA for a dataset provided by Maven Analytics using BASE SAS
+> Markdown of EDA for a dataset provided by Maven Analytics using BASE SAS
 
 ## What is the purpose of this project? 
 This project is to show my beginner knowledge of coding in base SAS, which is written in the C language, and a very minimalistic visualization in Excel.
