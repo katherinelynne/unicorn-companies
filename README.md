@@ -18,4 +18,4 @@ Maven Analytics provides small simple datasets for analyst to practice their ski
 
 
 ## What is included in this project?
-In this repo I provide my code written in SAs, and my visualization from Excel.
+In this repo I provide my code written in SAS, and my visualization from Excel.
